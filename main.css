@@ -1,13 +1,17 @@
 * {
 box-sizing: border-box;
 margin: 0 auto;
-}
-
-img {
-  max-width: 100%;
+padding: 0px;
 }
 .nav-logo{
-  height: 50px;
-  border-radius: 50px;
-  
+  height: 85px;
+  position: absolute;
+  transform: translateY(-22%);
+}
+video{
+  border-radius: 10px;
+}
+.logo{
+  display: block;
+  margin: 0 auto;
 }
